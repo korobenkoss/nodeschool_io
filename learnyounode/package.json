@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "async": "^3.2.0",
+    "bl": "^4.1.0",
+    "concat-stream": "^2.0.0",
+    "through2-map": "^3.0.0"
+  }
+}
